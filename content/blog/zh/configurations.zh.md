@@ -308,7 +308,7 @@ taxonomies:
 
 If you create a new posts, it is recommended to fill the configuration which means:
 
-```markdown
+```
 title: 
 date: {{ .Date }}
 tags: []
