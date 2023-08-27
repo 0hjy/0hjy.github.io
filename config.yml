@@ -1,10 +1,10 @@
-baseURL: 'https://huojerry.github.io'
+baseURL: 'https://0hjy.github.io'
 title: LADDER
 theme: hugo-theme-ladder
 license: MIT
 licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
 description: 'A fast, clean Hugo theme'
-homepage: 'https://huojerry.github.io'
+homepage: 'https://0hjy.github.io'
 defaultContentLanguage: 'en'
 googleAnalytics: G-4WXJ5TEK2S
 paginate: 10
@@ -128,4 +128,4 @@ taxonomies:
   series: series
   tag: tags
 build:
-  timeout: 180 # 设置为 180 秒（3分钟）
+  timeout: 180000 # 设置为 180 秒（3分钟）
